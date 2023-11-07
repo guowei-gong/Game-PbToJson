@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+package route;
+
+option go_package = "daycare_go/internal/pb/v1/route";
+
+message HelloWorld {
+}
+
+message HelloWorldRequest {
+}
+
+message HelloWorldResponse {
+}
